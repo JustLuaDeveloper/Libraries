@@ -1,4 +1,4 @@
-local library = loastring(game:HttpGet("https://raw.githubusercontent.com/JustLuaDeveloper/Libraries/refs/heads/main/NebulaUI/src.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/JustLuaDeveloper/Libraries/refs/heads/main/NebulaUI/src.lua"))()
 -- documentation
 local window = library:window({
     name = os.date('script - %b %d %Y'),
