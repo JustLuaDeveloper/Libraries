@@ -2470,7 +2470,7 @@ local Window = Library:Window({
     Name = "Atlas Loader", 
     Suffix = "v2.2",
     Logo = "rbxassetid://129058893768854",
-    Size = UDim2.new(0.5, 0, 0.65, 0)
+    Size = UDim2.new(500, 0, 350, 0)
 })
 
 local Tabs = {
