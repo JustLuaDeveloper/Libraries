@@ -2468,6 +2468,4 @@ end
 
 return Library
 
-task.wait(Library.TweeningSpeed)
 
-Window.SetVisible(true)
